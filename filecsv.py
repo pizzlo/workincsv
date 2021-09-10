@@ -1,4 +1,3 @@
-from os import write
 import csv
 import pandas as pd
 acme=pd.read_csv("acme_worksheet.csv")
